@@ -4,6 +4,8 @@ This project focuses on developing a Convolutional Neural Network (CNN) model to
 The primary goal is to create an automated, accurate, and efficient diagnostic tool that assists healthcare professionals in identifying and 
 categorizing brain tumors into distinct types, such as gliomas, meningiomas, or pituitary, and nontumor.
 
+Dataset: https://www.kaggle.com/datasets/masoudnickparvar/brain-tumor-mri-dataset
+
 Tasks:
 Developed and implemented a machine learning model for brain tumor detection and classification using MRI data, 
 improving diagnostic accuracy and the identification of glioma, meningioma, pituitary, and non-tumor scans
